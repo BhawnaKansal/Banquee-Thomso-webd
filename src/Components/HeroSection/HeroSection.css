@@ -1,0 +1,93 @@
+.container1{
+    background: var(--purple-color);
+    border-radius: 3vw;
+    z-index: -30;
+}
+.container-11{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-1{
+    margin-left: 30vw;
+    margin-top: 4vw;
+}
+.navbar{
+    margin-right: 6vw;
+    margin-top:4vw;
+}
+.text img{
+    position: absolute;
+    width: 10vw;
+    height: auto;
+    left: 5vw;
+    top: 13vw;
+    background: none;
+    filter: blur(2px);
+    }
+    .text h1{
+        position: absolute;
+    width: 40vw;
+    height: auto;
+    left: 7vw;
+    top: 15vw;
+    font-family: 'GT America Trial';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 5vw;
+    line-height: 5vw;
+    color: white;
+    z-index: 3;
+    }    
+    .text p{
+        position: absolute;
+    width: 40vw ;
+    height: auto;
+    left: 8vw;
+    top: 30vw;
+    font-family: 'GT America Trial';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    z-index: 2;
+    }
+    .image-main{
+        position: relative;
+        padding-left: 50vw;
+        top: 0.5vw;
+        width: 5vw;
+        z-index: 1;
+        right: 0;
+        
+    }
+    .Getbutton{
+        display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px 55px;
+gap: 10px;
+position: absolute;
+width: 30vw;
+height: auto;
+left: 7vw;
+top: 38vw;
+background: #ED7E02;
+border-radius: 5vw;
+font-family: 'GT America Trial';
+font-style: normal;
+font-weight: 1000;
+font-size: 2vw;
+line-height: 2vw;
+text-transform: uppercase;
+color: #101010;
+}
+.container-2{
+    z-index: 4;
+    display:flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    margin-left: 17vw;
+    padding: 2vw;
+}

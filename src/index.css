@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+:root {
+  --purple-color:rgba(76, 39, 174, 1) ;
+  --orange-color: #EC894C;
+}

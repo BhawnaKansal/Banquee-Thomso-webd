@@ -1,0 +1,32 @@
+.container4{
+    background: black;
+    margin: 0;
+}
+.container4 h1{
+font-family: 'GT America Trial';
+font-style: normal;
+font-weight: 900;
+font-size: 3vw;
+line-height: 4vw;
+text-transform: uppercase;
+color: #FFFFFF;
+width: 50vw;
+padding: 3.5vw;
+}
+.container-41{
+    display: inline-flex;
+    padding: 0.5vw;
+}
+.row1,.row2,.row3{
+margin-left: 1vw;
+margin-right: 1vw;
+font-family: 'GT America Trial';
+font-style: normal;
+font-weight: 900;
+font-size: 1.5vw;
+line-height: 1.5vw;
+text-transform: uppercase;
+color: #FFFFFF;
+text-align: center;
+
+}
